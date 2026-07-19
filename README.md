@@ -1,4 +1,4 @@
-本仓库汇总 Labelme、3D Slicer、Python 三个工具的实战项目，包含完整教程、代码示例、环境配置和常见问题解决方案，适合入门学习和工程实践。
+本仓库汇总 Labelme、3D Slicer、Python、R等实战项目，包含完整教程、代码示例、环境配置和常见问题解决方案，适合入门学习和工程实践。
 
 ## 📚 项目目录
 | 工具名称       | 仓库地址                          | 核心内容                          |
@@ -6,7 +6,8 @@
 | Labelme        | [链接](https://github.com/Chingplumya/medical_ai_labelme) | 图像标注、格式转换、批量处理      |
 | 3D Slicer      | [链接](https://github.com/Chingplumya/medical_ai_3dslicer) | 医学影像分割、3D重建、插件开发    |
 | Python         | [链接](https://github.com/Chingplumya/python) | 自动化脚本、数据分析、工具封装    |
-
+| R Studio       | [链接](https://github.com/Chingplumya/R) | 数据分析、pdf渲染、数学建模    |
 ## 🎯 适用场景
 - 计算机视觉/医学影像领域入门学习
 - 数据清洗和数据标注入门学习
+- 数据分析入门学习
